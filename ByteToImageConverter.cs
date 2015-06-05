@@ -5,7 +5,7 @@ using System.Text;
 using System.Drawing;
 using System.IO;
 
-namespace RNTi.App.GUI.Classes
+namespace Converter
 {
     class ByteToImageConverter
     {
